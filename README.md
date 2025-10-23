@@ -1,6 +1,6 @@
 # jerryfinol17.github.io
 ---
-title: Jerry Finol | QA Enthusiast & Python Hacker
+Jerry Finol | QA Enthusiast & Python Hacker
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev/) [![Pytest](https://img.shields.io/badge/Pytest-0A9F37?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/) [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 ---
 
