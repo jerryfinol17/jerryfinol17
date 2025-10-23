@@ -21,6 +21,6 @@ Soy Jerry, graduado del Bootcamp TripleTen, con una pasión loca por cazar bugs 
 ## Mi Journey
 Hace un año, los chistes de código me volaban la cabeza. Hoy? ¡Eureka! en cada compile. Lee mi [post en LinkedIn](https://www.linkedin.com/posts/jerry-finol_codingjourney-pythonlovers-bootcamplife-activity-7387203342143401984-Hp3f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqA2AgBZzs_Bhe45XXwvnzLSlL22ZZy5Dk) pa' la historia full.
 
-¿Colab? Escríbeme: jerrytareas17@gmail.com | [LinkedIn](www.linkedin.com/in/jerry-finol) | [X/Twitter](@jerryfinol)
+¿Colab? Escríbeme: jerrytareas17@gmail.com | [LinkedIn](https://www.linkedin.com/in/jerry-finol)
 
 #QAJourney #PythonLovers #TripleTen
