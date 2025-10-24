@@ -5,6 +5,11 @@ Jerry Finol | QA Enthusiast & Python Hacker
 ---
 
 # ¡Hola, mundo del QA! 👋
+<div align="center">
+ <img src="https://github.com/jerryfinol17/jerryfinol17/blob/main/banner.png?raw=true" alt="Jerry Finol Banner" width="100%"/>
+</div>
+
+
 
 Soy Jerry, graduado del Bootcamp TripleTen, con una pasión loca por cazar bugs y automatizar el caos con código. De cero a tests que rockean en menos de un año. 🐛🔥
 
