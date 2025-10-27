@@ -56,7 +56,7 @@ Here are my  **hands-on creations**. Each one is **open-source**, with clean cod
 
 ### 1. **Automated Web Testing Project**  
    E2E tests for web apps with **Selenium + Pytest**. Login, cart, and checkout on SauceDemo – cross-browser and CI/CD ready.      
-   **[Ver Repo](https://github.com/jerryfinol17/Automated-testing-project)**  
+   **[View Repo](https://github.com/jerryfinol17/Automated-testing-project)**  
    *Skills: Selenium, Pytest, Page Object Model*  
      <div align="center">
      <img src="https://img.shields.io/github/stars/jerryfinol17/Automated-testing-project?style=social" alt="Stars" />
@@ -65,7 +65,7 @@ Here are my  **hands-on creations**. Each one is **open-source**, with clean cod
 
 ### 2. **QA Automation API**  
    CRUD full on APIs REST with **Python + Requests**. Validating schemas and edges on JSONPlaceholder, with Allure reports.  
-   **[Ver Repo](https://github.com/jerryfinol17/qa-automation-api)**  
+   **[View Repo](https://github.com/jerryfinol17/qa-automation-api)**  
    *Skills: API Testing, Pytest, Allure*  
    <div align="center">
      <img src="https://img.shields.io/github/license/jerryfinol17/qa-automation-api?style=flat-square" alt="License" />
@@ -73,7 +73,7 @@ Here are my  **hands-on creations**. Each one is **open-source**, with clean cod
 
 ### 3. **QA Automation Cypress**  
    E2E for React with **Cypress** en TodoMVC – tasks add/complete/delete, headless and green CI.  
-   **[Ver Repo](https://github.com/jerryfinol17/qa-automation-cypress)**  
+   **[View Repo](https://github.com/jerryfinol17/qa-automation-cypress)**  
    *Skills: Cypress, JavaScript, E2E*  
    <div align="center">
      <img src="https://img.shields.io/badge/Cypress-Passing-26C6DA?style=flat-square&logo=cypress&logoColor=white" alt="Status" />
