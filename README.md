@@ -84,14 +84,14 @@ Here are my  **hands-on creations**. Each one is **open-source**, with clean cod
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Coding Journey GIF" />
 </div>
 
-A year ago, coding jokes blew my mind. Today?  **¡Eureka!** on every compile. From newbie to QA hacker, all thanks to TripleTen. Check out my full story in this [LinkedIn Post](https://www.linkedin.com/posts/jerry-finol_codingjourney-pythonlovers-bootcamplife-activity-7387203342143401984-Hp3f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqA2AgBZzs_Bhe45XXwvnzLSlL22ZZy5Dk). 🚀
+A year ago, coding jokes blew my mind. Today?  **Eureka!** on every compile. From newbie to QA hacker, all thanks to TripleTen. Check out my full story in this [LinkedIn Post](https://www.linkedin.com/posts/jerry-finol_codingjourney-pythonlovers-bootcamplife-activity-7387203342143401984-Hp3f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqA2AgBZzs_Bhe45XXwvnzLSlL22ZZy5Dk). 🚀
 
 **Fun Fact:** My first bug hunt was on my morning coffee... it was cold! ☕😂
 
-## 🤝 ¿Collab or Chat?
+## 🤝 Collab or Chat?
 Hit me up for bugs, code, or a virtual coffee!
-📧 **Email:** jerrytareas17@gmail.com  
-💼 **[LinkedIn](https://www.linkedin.com/in/jerry-finol)**  
+- 📧 **Email:** jerrytareas17@gmail.com  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/jerry-finol)**  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jerryfinol17&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
