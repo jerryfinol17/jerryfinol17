@@ -9,18 +9,18 @@
 
 ---
 
-# ¡Hola, mundo del QA! 👋
+# Hello, QA World! 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Bug Hunting GIF" />
 </div>
 
-Soy **Jerry Finol**, graduado del [Bootcamp TripleTen](https://tripleten.com/), con una **pasión loca por cazar bugs** 🐛 y **automatizar el caos** con código. De cero a tests que rockean en menos de un año. 🔥
+I'm **Jerry Finol**, a graduate of the [Bootcamp TripleTen](https://tripleten.com/), with a  **wild passion for hunting bugs** 🐛 and **automating chaos** with code. From zero to rocking tests in under a year. 🔥
 
-> "El código no muerde... ¡los bugs sí!" – Jerry Finol
+> "Code doesn't bite... bugs do!" – Jerry Finol
 
 ## 🛠️ Mis Skills
-| Categoría | Tecnologías & Herramientas |
+| Category  | Technologies & Tools |
 |-----------|----------------------------|
 | **Automated Testing** | Selenium, Pytest, Cypress |
 | **API Magic** | Requests, JSON Schemas, CRUD Operations |
@@ -31,8 +31,9 @@ Soy **Jerry Finol**, graduado del [Bootcamp TripleTen](https://tripleten.com/), 
   <img src="https://skillicons.dev/icons?i=py,selenium,cypress,githubactions,postman" alt="Skills Icons" />
 </div>
 
-## 🔥 Mis Estadísticas
-¡Aquí va mi racha de commits y lo que más me late codear! 📊 Sigo empujando código como un QA en modo turbo. ¿Quieres ver cómo crece? ¡Star y colabora! ⭐
+## 🔥 My Stats
+
+Here's my commit streak and what I love coding the most!  I'm pushing code like a QA in turbo mode. Want to see it grow? Star and collaborate!  ⭐
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jerryfinol17&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -48,13 +49,13 @@ Soy **Jerry Finol**, graduado del [Bootcamp TripleTen](https://tripleten.com/), 
 </div>
 
 
-(Estas cards se actualizan solitas con mis contribuciones en GitHub. ¡Mágico, no? ✨)
+(**These cards update automatically with my GitHub contributions. Magic, right?** ✨)
 
-## 🌟 Proyectos Top
-Aquí van mis creaciones **hands-on**. Cada uno es **open-source**, con código limpio, reports pro y CI/CD integrado. ¡Clonéalos, pruébalos y colabora! 📦
+## 🌟 Top  Projects
+Here are my  **hands-on creations**. Each one is **open-source**, with clean code, pro reports, and integrated CI/CD. Clone 'em, run 'em, and collaborate!📦
 
 ### 1. **Automated Web Testing Project**  
-   Tests E2E para apps web con **Selenium + Pytest**. Login, carrito y checkout en SauceDemo – cross-browser y CI/CD.      
+   E2E tests for web apps with **Selenium + Pytest**. Login, cart, and checkout on SauceDemo – cross-browser and CI/CD ready.      
    **[Ver Repo](https://github.com/jerryfinol17/Automated-testing-project)**  
    *Skills: Selenium, Pytest, Page Object Model*  
      <div align="center">
@@ -63,7 +64,7 @@ Aquí van mis creaciones **hands-on**. Cada uno es **open-source**, con código 
  
 
 ### 2. **QA Automation API**  
-   CRUD full en APIs REST con **Python + Requests**. Valido schemas y edges en JSONPlaceholder, reports Allure.  
+   CRUD full on APIs REST with **Python + Requests**. Validating schemas and edges on JSONPlaceholder, with Allure reports.  
    **[Ver Repo](https://github.com/jerryfinol17/qa-automation-api)**  
    *Skills: API Testing, Pytest, Allure*  
    <div align="center">
@@ -71,24 +72,24 @@ Aquí van mis creaciones **hands-on**. Cada uno es **open-source**, con código 
    </div>
 
 ### 3. **QA Automation Cypress**  
-   E2E para React con **Cypress** en TodoMVC – tasks add/complete/delete, headless y CI verde.  
+   E2E for React with **Cypress** en TodoMVC – tasks add/complete/delete, headless and green CI.  
    **[Ver Repo](https://github.com/jerryfinol17/qa-automation-cypress)**  
    *Skills: Cypress, JavaScript, E2E*  
    <div align="center">
      <img src="https://img.shields.io/badge/Cypress-Passing-26C6DA?style=flat-square&logo=cypress&logoColor=white" alt="Status" />
    </div>
 
-## 📈 Mi Journey
+## 📈 My Journey
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Coding Journey GIF" />
 </div>
 
-Hace un año, los chistes de código me volaban la cabeza. Hoy? **¡Eureka!** en cada compile. De newbie a QA hacker, todo gracias a TripleTen. Lee mi [post en LinkedIn](https://www.linkedin.com/posts/jerry-finol_codingjourney-pythonlovers-bootcamplife-activity-7387203342143401984-Hp3f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqA2AgBZzs_Bhe45XXwvnzLSlL22ZZy5Dk) pa' la historia full. 🚀
+A year ago, coding jokes blew my mind. Today?  **¡Eureka!** on every compile. From newbie to QA hacker, all thanks to TripleTen. Check out my full story in this [LinkedIn Post](https://www.linkedin.com/posts/jerry-finol_codingjourney-pythonlovers-bootcamplife-activity-7387203342143401984-Hp3f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqA2AgBZzs_Bhe45XXwvnzLSlL22ZZy5Dk). 🚀
 
-**Fun Fact:** Mi primer bug cazado fue en mi propio café matutino... ¡estaba frío! ☕😂
+**Fun Fact:** My first bug hunt was on my morning coffee... it was cold! ☕😂
 
-## 🤝 ¿Colab o Chat?
-¡Escríbeme para bugs, código o un café virtual!  
+## 🤝 ¿Collab or Chat?
+Hit me up for bugs, code, or a virtual coffee!
 📧 **Email:** jerrytareas17@gmail.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/jerry-finol)**  
 
@@ -98,4 +99,4 @@ Hace un año, los chistes de código me volaban la cabeza. Hoy? **¡Eureka!** en
 
 ---
 
-⭐ **¡Star este repo si te gustó!** Ayuda a más QA explorers a encontrarme. #QAJourney #PythonLovers #TripleTen
+⭐  **Star this repo if you liked it!** It helps more QA explorers find me.  #QAJourney #PythonLovers #TripleTen
