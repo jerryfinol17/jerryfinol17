@@ -19,7 +19,7 @@ I'm **Jerry Finol**, a graduate of the [Bootcamp TripleTen](https://tripleten.co
 
 > "Code doesn't bite... bugs do!" – Jerry Finol
 
-## 🛠️ Mis Skills
+## 🛠️ My Skills
 | Category  | Technologies & Tools |
 |-----------|----------------------------|
 | **Automated Testing** | Selenium, Pytest, Cypress |
@@ -82,7 +82,7 @@ Here are my  **hands-on creations**. Each one is **open-source**, with clean cod
    </div>
 
 ### 3. **QA Automation Cypress**  
-   E2E for React with **Cypress** en TodoMVC – tasks add/complete/delete, headless and green CI.  
+   E2E for React with **Cypress** on TodoMVC – tasks add/complete/delete, headless and green CI.  
    **[View Repo](https://github.com/jerryfinol17/qa-automation-cypress)**  
    *Skills: Cypress, JavaScript, E2E*  
    <div align="center">
