@@ -31,6 +31,16 @@ I'm **Jerry Finol**, a graduate of the [Bootcamp TripleTen](https://tripleten.co
   <img src="https://skillicons.dev/icons?i=py,selenium,cypress,githubactions,postman" alt="Skills Icons" />
 </div>
 
+## 🚀 CI/CD Highlights
+Building prod-ready pipelines from day 1! Current setup:
+- **Web Testing**: 1 workflow (push/PR triggers, cross-browser Allure/HTML artifacts – 90% coverage).
+- **Cypress E2E**: 1 workflow (headless runs + video artifacts, 100% pass).
+- **API Automation**: CI-ready (adding 15 workflows: schedules, schema validation, parallel runs).
+
+Total: Scaling to 46+ workflows across repos – efficient, scalable QA for teams. Check Actions tabs!
+
+[![Actions](https://img.shields.io/badge/GitHub_Actions-CI%20Active-brightgreen)](https://github.com/jerryfinol17/actions)
+
 ## 🔥 My Stats
 
 Here's my commit streak and what I love coding the most!  I'm pushing code like a QA in turbo mode. Want to see it grow? Star and collaborate!  ⭐
