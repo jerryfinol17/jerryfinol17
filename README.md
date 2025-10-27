@@ -74,7 +74,7 @@ Here are my  **hands-on creations**. Each one is **open-source**, with clean cod
  
 
 ### 2. **QA Automation API**  
-   CRUD full on APIs REST with **Python + Requests**. Validating schemas and edges on JSONPlaceholder, with Allure reports.  
+   CRUD full on APIs REST with **Python + Requests**. Validating schemas and edges on Reqres.in, with Allure reports.  
    **[View Repo](https://github.com/jerryfinol17/qa-automation-api)**  
    *Skills: API Testing, Pytest, Allure*  
    <div align="center">
