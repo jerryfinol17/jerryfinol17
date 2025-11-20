@@ -18,6 +18,11 @@ I'm **Jerry Finol**, TripleTen graduate with a **wild passion for hunting bugs**
 
 > "Code doesn't bite... bugs do!" – Jerry Finol
 
+
+## Why Me?
+
+Recent TripleTen grad specializing in QA automation. Built 50+ CI workflows with 95% coverage. Open to remote US roles
+
 ## My Skills
 | Category           | Technologies & Tools                                 |
 |--------------------|-------------------------------------------------------|
