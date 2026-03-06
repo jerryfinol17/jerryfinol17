@@ -77,15 +77,19 @@ Web (cross-browser), API (schema + parallel), Cypress (video artifacts), schedul
    Full E2E suite with Selenium + Pytest + POM + cross-browser + Allure  
    → [View Repo](https://github.com/jerryfinol17/Automated-testing-project)
 
-### 2. **API Automation – Reqres.in**  
+### 2. **Playwright-saucedemo-framework**
+  Full E2E suite with Playwright + Pytest + POM + cross-browser + cross devices + multiple users
+   → [View Repo](https://github.com/jerryfinol17/playwright-saucedemo-framework-.git)
+
+### 3. **API Automation – Reqres.in**  
    CRUD, schema validation, edge cases, Allure reports  
    → [View Repo](https://github.com/jerryfinol17/qa-automation-api)
 
-### 3. **Cypress E2E – TodoMVC**  
+### 4. **Cypress E2E – TodoMVC**  
    Headless, video recording, 100% pass rate on CI  
    → [View Repo](https://github.com/jerryfinol17/qa-automation-cypress)
 
-### 4. **My very first automation ever**  
+### 5. **My very first automation ever**  
    Urban Grocers Kit Creation – where it all began (100% coverage!)  
    → [View Repo](https://github.com/jerryfinol17/qa-project-Urban-Grocers-app-es)
 
