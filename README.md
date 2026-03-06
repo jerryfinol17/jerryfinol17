@@ -79,6 +79,7 @@ Web (cross-browser), API (schema + parallel), Cypress (video artifacts), schedul
 
 ### 2. **Playwright-saucedemo-framework**
   Full E2E suite with Playwright + Pytest + POM + cross-browser + cross devices + multiple users
+
    → [View Repo](https://github.com/jerryfinol17/playwright-saucedemo-framework-.git)
 
 ### 3. **API Automation – Reqres.in**  
