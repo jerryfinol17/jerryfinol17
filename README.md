@@ -73,14 +73,13 @@ Web (cross-browser), API (schema + parallel), Cypress (video artifacts), schedul
 
 ## Top Projects (the ones I’m most proud of)
 
-### 1. **Automated Web Testing – SauceDemo**  
-   Full E2E suite with Selenium + Pytest + POM + cross-browser + Allure  
-   → [View Repo](https://github.com/jerryfinol17/Automated-testing-project)
-
-### 2. **Python-Playwright-Saucedemo-Pom-Framework**
+### 1. **Python-Playwright-Saucedemo-Pom-Framework**
   Full E2E suite with Playwright + Pytest + POM + cross-browser + cross devices + multiple users
 
    → [View Repo](https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework.git)
+### 2. **Automated Web Testing – SauceDemo**  
+   Full E2E suite with Selenium + Pytest + POM + cross-browser + Allure  
+   → [View Repo](https://github.com/jerryfinol17/Automated-testing-project)
 
 ### 3. **API Automation – Reqres.in**  
    CRUD, schema validation, edge cases, Allure reports  
