@@ -43,7 +43,6 @@ Let’s talk.
 **Contact**  
 - Email: jerrytareas17@gmail.com  
 - LinkedIn: [Jerry Finol](https://www.linkedin.com/in/jerry-finol)  
-- X: [@GordoRelig3d](https://x.com/GordoRelig3d)
 
 ---
 
