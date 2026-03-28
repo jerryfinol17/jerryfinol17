@@ -27,11 +27,11 @@ From manual testing to building full automation suites — I help companies ship
 - **[Python Playwright Async POM Framework](https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework)**  
   → 88.5% coverage | Full async | Production ready
 
-- **[Selenium + Pytest E2E Framework](https://github.com/jerryfinol17/Automated-testing-project)**  
-  → Allure reporting | Cross-browser | CI/CD included
-
 - **[Playwright TypeScript Framework](https://github.com/jerryfinol17/playwright-ts-qa-journey)**  
   → Modern TypeScript implementation | Full async | 94% coverage | Production ready
+
+ - **[Selenium + Pytest E2E Framework](https://github.com/jerryfinol17/Automated-testing-project)**  
+  → Allure reporting | Cross-browser | CI/CD included
 
 ### Open for Opportunities
 
