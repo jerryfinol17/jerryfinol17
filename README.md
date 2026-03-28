@@ -31,7 +31,7 @@ From manual testing to building full automation suites — I help companies ship
   → Allure reporting | Cross-browser | CI/CD included
 
 - **[Playwright TypeScript Framework](https://github.com/jerryfinol17/playwright-ts-qa-journey)**  
-  → Modern TypeScript implementation
+  → Modern TypeScript implementation | Full async | 94% coverage | Production ready
 
 ### Open for Opportunities
 
