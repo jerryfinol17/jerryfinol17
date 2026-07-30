@@ -110,3 +110,30 @@ Real startup reviews combining:
 Behind every startup is someone investing time, energy and belief into an idea.
 
 I try to honor that by testing products with empathy, curiosity and clear communication.
+
+## Currently
+
+✅ Building production-ready automation frameworks
+
+✅ Reviewing startup products
+
+✅ Writing about Quality Assurance and Product Thinking
+
+✅ Always learning something new
+
+## Let's Connect
+
+<p align="center">
+
+<a href="mailto:jerrytest124@gmail.com">📧 Email</a> •
+<a href="https://linkedin.com/in/jerry-finol">💼 LinkedIn</a> •
+<a href="https://jerryfinol17.github.io/JerryFinolQA/">🌐 Portfolio</a>
+
+<br><br>
+
+<a href="https://x.com/JerryFinolQA">𝕏 X</a> •
+<a href="https://www.reddit.com/user/Jerry_Finol17/">👽 Reddit</a> •
+<a href="https://www.instagram.com/jerryfinolqa/">📷 Instagram</a>
+<a href="https://www.facebook.com/JerryFinolQA">📘 Facebook</a>
+
+</p>
