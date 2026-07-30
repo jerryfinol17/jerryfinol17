@@ -1,8 +1,8 @@
-# Jerry Finol | QA Automation Engineer
+# Jerry Finol | Software Quality Consultant
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jerryfinol17&color=2CA5E0&style=flat&label=Profile+Views)
 
-**Building production-ready automation frameworks | Python + Playwright Async + Selenium + TypeScript**
+**Helping startups build products users love through analytical testing, UX reviews, and test automation.**
 
 ![Python](https://img.shields.io/badge/Python-3.12%20|%203.13-3776AB?style=flat&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-Async-2CA5E0?style=flat&logo=playwright&logoColor=white)
@@ -10,42 +10,103 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-I specialize in creating **clean, scalable, and maintainable** end-to-end automation frameworks that teams can trust in production.
+Most people think QA is about finding bugs.
 
-From manual testing to building full automation suites — I help companies ship faster with confidence.
+I don't.
 
-### Core Expertise
+A bug is often just the visible symptom.
 
-- **Playwright Async** (Python & TypeScript) — Modern, fast, and reliable E2E frameworks
-- **Selenium + pytest** — Robust Page Object Model frameworks with Allure reporting
-- REST & GraphQL API Testing
-- CI/CD pipelines (GitHub Actions, parallel execution, video & screenshot on failure)
-- High code coverage and best practices in test automation
+The real question is:
 
-### Featured Projects
+> **<em>Why did a user end up there in the first place?</em>**
 
-- **[Python Playwright Async POM Framework](https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework)**  
-  → 88.5% coverage | Full async | Production ready
+That's the mindset I bring to every project.
 
-- **[Playwright TypeScript Framework](https://github.com/jerryfinol17/playwright-ts-qa-journey)**  
-  → Modern TypeScript implementation | Full async | 94% coverage | Production ready
+Before writing a test case or opening DevTools, I try to understand the product, the people it's built for, and the problem it's trying to solve.
 
- - **[Selenium + Pytest E2E Framework](https://github.com/jerryfinol17/Automated-testing-project)**  
-  → Allure reporting | Cross-browser | CI/CD included
+Only then do I begin testing.
 
-### Open for Opportunities
+Because quality isn't just about making software work.
 
-Currently accepting **freelance and remote QA Automation contracts** (US & Worldwide).
+It's about helping people enjoy using it.
 
-Need a solid automation framework built quickly and professionally?  
-Let’s talk.
+## What I Do
 
-**Contact**  
-- Email: jerrytareas17@gmail.com  
-- LinkedIn: [Jerry Finol](https://www.linkedin.com/in/jerry-finol)  
+**🔍 Analytical Testing**
 
----
+I evaluate products the way real users experience them.
 
-**"Turning complex testing challenges into reliable, green test suites."**
+That includes:
 
-Green tests. Happy teams. Reliable delivery.
+- Functional testing
+- Exploratory testing
+- UX-oriented reviews
+- Product walkthroughs
+- Bug reporting
+- Accessibility observations
+- Actionable recommendations
+
+My reports explain not only what should improve, but also why it matters.
+
+**🤖 Test Automation**
+
+When automation makes sense, I build frameworks designed for long-term maintainability.
+
+Using:
+
+- Playwright (Python & TypeScript)
+- Selenium
+- pytest
+- GitHub Actions
+- API Testing
+- CI/CD
+- Page Object Model
+
+I enjoy building automation that other engineers will still enjoy maintaining months later.
+
+# Selected Projects
+
+**🚀 [Playwright E-Commerce Framework](https://github.com/jerryfinol17/playwright-ecommerce-framework)**
+
+Production-ready automation architecture built with Playwright + TypeScript.
+
+Focuses on scalability, API testing, CI/CD, cross-browser execution, and maintainable test architecture.
+
+**📋 [TaskFlow Automation Framework](https://github.com/jerryfinol17/taskflow-playwright-typescript-framework)**
+
+A complete end-to-end automation framework for a task management platform.
+
+Designed to validate complex user workflows including authentication, task creation, editing, filtering, and business-critical user interactions.
+
+Built with a strong focus on maintainability, reusable components, and real-world QA practices.
+
+**⚡ [Python Playwright Async Framework](https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework)**
+
+Modern asynchronous automation built with Playwright + pytest.
+
+Demonstrates clean architecture, reusable Page Objects, strategic test coverage, and production-ready engineering practices.
+
+**🧪[ Selenium + Python Framework](https://github.com/jerryfinol17/selenium-python-saucedemo-pom-framework)**
+
+My first production-style automation framework.
+
+A project that represents the beginning of my automation journey and the foundation that shaped how I design frameworks today.
+
+# 📋 Analytical QA Reviews
+
+Real startup reviews combining:
+
+- Product understanding
+- UX evaluation
+- Functional testing
+- Actionable improvement reports
+  
+**(Published with founder permission.)**
+
+## My Philosophy
+
+> **<em>Understand first. Test second. Explain always.</em>**
+
+Behind every startup is someone investing time, energy and belief into an idea.
+
+I try to honor that by testing products with empathy, curiosity and clear communication.
