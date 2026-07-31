@@ -72,7 +72,7 @@ Production-ready automation architecture built with Playwright + TypeScript.
 
 Focuses on scalability, API testing, CI/CD, cross-browser execution, and maintainable test architecture.
 
-**📋 [TaskFlow Automation Framework](https://github.com/jerryfinol17/taskflow-playwright-typescript-framework)**
+**📋 [Playwright UI Automation Framework](https://github.com/jerryfinol17/taskflow-playwright-typescript-framework)**
 
 A complete end-to-end automation framework for a task management platform.
 
