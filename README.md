@@ -72,7 +72,7 @@ Production-ready automation architecture built with Playwright + TypeScript.
 
 Focuses on scalability, API testing, CI/CD, cross-browser execution, and maintainable test architecture.
 
-**📋 [Playwright UI Automation Framework](https://github.com/jerryfinol17/taskflow-playwright-typescript-framework)**
+**📋 [Playwright UI Automation Framework](https://github.com/jerryfinol17/Playwright-UI-Automation-Framework.git)**
 
 A complete end-to-end automation framework for a task management platform.
 
@@ -80,13 +80,13 @@ Designed to validate complex user workflows including authentication, task creat
 
 Built with a strong focus on maintainability, reusable components, and real-world QA practices.
 
-**⚡ [Python Playwright Async Framework](https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework)**
+**⚡ [Python Playwright Async Framework](https://github.com/jerryfinol17/Python-Playwright-Async-Framework.git)**
 
 Modern asynchronous automation built with Playwright + pytest.
 
 Demonstrates clean architecture, reusable Page Objects, strategic test coverage, and production-ready engineering practices.
 
-**🧪[ Selenium + Python Framework](https://github.com/jerryfinol17/selenium-python-saucedemo-pom-framework)**
+**🧪[ Selenium + Python Framework](https://github.com/jerryfinol17/selenium-automation-framework.git)**
 
 My first production-style automation framework.
 
